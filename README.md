@@ -16,4 +16,4 @@ This is purely an academic exercise. The purpose is to understand how NN work in
 
 Training results plot(5 epochs):
 
-[./cifar_10_training.png]
+![Alt Text](./cifar_10_training.png)
