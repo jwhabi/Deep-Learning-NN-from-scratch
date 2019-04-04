@@ -13,3 +13,7 @@ Weights initialisation is random.
 
 Performance:
 This is purely an academic exercise. The purpose is to understand how NN work internally. This will come in useful if a custom GPU framework is to be built. The code, obviously, is time inefficient as compared to a standard GPU library. However, it is a functional system capable of learning and if left to execute, will converge to similar results as compared to a similar NN built using a GPU framework.
+
+Training results plot(5 epochs):
+
+(./cifar_10_training.png)
